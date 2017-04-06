@@ -18,6 +18,7 @@
 			<Item Name="lab2_sim_modem.vi" Type="VI" URL="../lab2_sim_modem.vi"/>
 			<Item Name="lab2_usrp_modem_system.vi" Type="VI" URL="../lab2_usrp_modem_system.vi"/>
 			<Item Name="lab2_usrp_packet_transceiver.vi" Type="VI" URL="../lab2_usrp_packet_transceiver.vi"/>
+			<Item Name="lab2_usrp_packet_transceiver2.vi" Type="VI" URL="../lab2_usrp_packet_transceiver2.vi"/>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
 			<Item Name="ceEq(TODO)" Type="Folder">
@@ -63,7 +64,6 @@
 				<Item Name="niUSRP Write Tx Data (poly).vi" Type="VI" URL="/&lt;instrlib&gt;/niUSRP/niUSRP Write Tx Data (poly).vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>

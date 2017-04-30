@@ -1,0 +1,1 @@
+bmp 3 0 soft, bmp 3 10  no err

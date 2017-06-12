@@ -20,6 +20,7 @@
 			<Item Name="var_stop.vi" Type="VI" URL="../var_stop.vi"/>
 		</Item>
 		<Item Name="system program" Type="Folder">
+			<Item Name="final_usrp_transceiver.vi" Type="VI" URL="../final_usrp_transceiver.vi"/>
 			<Item Name="lab4_sim_cp_ofdm_transceiver.vi" Type="VI" URL="../lab4_sim_cp_ofdm_transceiver.vi"/>
 			<Item Name="lab4_usrp_cp_ofdm_transceiver.vi" Type="VI" URL="../lab4_usrp_cp_ofdm_transceiver.vi"/>
 		</Item>

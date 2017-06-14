@@ -42,6 +42,7 @@
 			<Item Name="sub_avi_codec.vi" Type="VI" URL="../sub_avi_codec.vi"/>
 			<Item Name="sub_depacket.vi" Type="VI" URL="../sub_depacket.vi"/>
 			<Item Name="sub_frame_to_packets.vi" Type="VI" URL="../sub_frame_to_packets.vi"/>
+			<Item Name="sub_frame_to_packets2.vi" Type="VI" URL="../sub_frame_to_packets2.vi"/>
 			<Item Name="sub_read_avi2.vi" Type="VI" URL="../sub_read_avi2.vi"/>
 		</Item>
 		<Item Name="final_usrp_transceiver.vi" Type="VI" URL="../final_usrp_transceiver.vi"/>

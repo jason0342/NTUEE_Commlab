@@ -39,6 +39,9 @@
 			</Item>
 		</Item>
 		<Item Name="video" Type="Folder">
+			<Item Name="crc_check.vi" Type="VI" URL="../crc_check.vi"/>
+			<Item Name="crc_modbus.vi" Type="VI" URL="../crc_modbus.vi"/>
+			<Item Name="HexToBinary.vi" Type="VI" URL="../HexToBinary.vi"/>
 			<Item Name="sub_avi_codec.vi" Type="VI" URL="../sub_avi_codec.vi"/>
 			<Item Name="sub_depacket.vi" Type="VI" URL="../sub_depacket.vi"/>
 			<Item Name="sub_frame_to_packets.vi" Type="VI" URL="../sub_frame_to_packets.vi"/>
@@ -139,6 +142,7 @@
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="STR_ASCII-Unicode.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/STR_ASCII-Unicode.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>

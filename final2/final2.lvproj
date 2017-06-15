@@ -49,6 +49,7 @@
 			<Item Name="sub_read_avi2.vi" Type="VI" URL="../sub_read_avi2.vi"/>
 		</Item>
 		<Item Name="final_usrp_transceiver.vi" Type="VI" URL="../final_usrp_transceiver.vi"/>
+		<Item Name="final_usrp_transceiver2.vi" Type="VI" URL="../final_usrp_transceiver2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niUSRP Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/niUSRP/niUSRP Abort.vi"/>
